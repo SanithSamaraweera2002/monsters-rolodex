@@ -22,6 +22,10 @@ class App extends Component{
         {
           name: "Testing",
           id: 'ac4'
+        },
+        {
+          name: "Testing 2",
+          id: 'ac4'
         }
       ]
     }
