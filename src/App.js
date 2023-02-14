@@ -8,7 +8,7 @@ class App extends Component{
     this.state = {
       monsters: [
         {
-          name: "Dracula 2234",
+          name: "Dracula Test Changes",
           id: 'ac1'
         },
         {
